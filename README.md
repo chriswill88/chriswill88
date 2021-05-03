@@ -11,6 +11,10 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I know how to play many musical instruments
 
+<div width="100%">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswill88&theme=light"/>
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=chriswill88&show_icons=true&theme=light&line_height=27" alt="Christian's github stats"/>
+</div>
 
 ### Connect with me:
 <!--
@@ -21,6 +25,8 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
 <!--
 [website]: https://codeSTACKr.com
 -->
@@ -28,3 +34,4 @@
 [twitter]: https://twitter.com/ChrisWill79
 [instagram]: https://instagram.com/chris_will88
 [linkedin]: https://linkedin.com/in/christian--williams/
+
