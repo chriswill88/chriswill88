@@ -14,8 +14,11 @@
 [<img align="" alt="Instagram" width="13px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - ⚡ Fun fact: ... I know how to play many musical instruments
 
- <img align="left" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswill88&theme=light"/>
- <img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=chriswill88&show_icons=true&theme=light&line_height=27" alt="Christian's github stats"/>
+
+ <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=chriswill88&show_icons=true&theme=light&line_height=27" alt="Christian's github stats"/>
+ 
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswill88&theme=light"/>
+
 
 <!--
 ### Connect with me:
