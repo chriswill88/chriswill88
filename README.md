@@ -9,9 +9,9 @@
 - 🤔 I’m looking for help with ... getting into another internship or job
 - 💬 Ask me about ... working with you
 - 😄 Pronouns: ... He/Him
-- How to reach me: ... [<img align="" alt="Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="" alt="LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="" alt="Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- How to reach me: ... [<img align="" alt="Twitter" width="13px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="" alt="LinkedIn" width="13px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="" alt="Instagram" width="13px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - ⚡ Fun fact: ... I know how to play many musical instruments
 
 <div width="100%">
