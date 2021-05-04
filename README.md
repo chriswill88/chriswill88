@@ -9,21 +9,22 @@
 - 🤔 I’m looking for help with ... getting into another internship or job
 - 💬 Ask me about ... working with you
 - 😄 Pronouns: ... He/Him
+- How to reach me: ... [<img align="" alt="Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="" alt="LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="" alt="Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - ⚡ Fun fact: ... I know how to play many musical instruments
 
 <div width="100%">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswill88&theme=light"/>
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswill88&theme=light"/>
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=chriswill88&show_icons=true&theme=light&line_height=27" alt="Christian's github stats"/>
 </div>
 
-### Connect with me:
 <!--
+### Connect with me:
 [<img align="left" alt="websit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 -->
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 
