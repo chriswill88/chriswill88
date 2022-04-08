@@ -3,7 +3,7 @@
 <!--
 **chriswill88/chriswill88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ... becoming a skilled software engineer
+- 🔭 I’m currently working on ... becoming a rockstart Playstation developer
 - 🌱 I’m currently learning ... web development
 - 👯 I’m looking to collaborate on ... any projects
 - 🤔 I’m looking for help with ... getting into another internship or job
