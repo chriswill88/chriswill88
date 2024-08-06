@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... becoming a rockstart Playstation developer
 - 🌱 I’m currently learning ... web development
 - 👯 I’m looking to collaborate on ... any projects
-- 🤔 I’m looking for help with ... getting into another internship or job
+- 🤔 I’m looking for help with ... getting into another fulltime role
 - 💬 Ask me about ... working with you
 - 😄 Pronouns: ... He/Him
 - :love_letter: How to reach me: ... [<img align="" alt="Twitter" width="13px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
